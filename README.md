@@ -52,6 +52,17 @@ The pattern suggests an **automated campaign** or **C2 beaconing** activity rath
 
 ---
 
+## Evidence Snapshots
+
+![SOCRadar Evidence 1](https://github.com/cfazuero1/Network-Activity-Spike/blob/main/75d2dbb4-ff45-4c0f-85f0-1f95a88a592e.png)
+![SOCRadar Evidence 2](https://github.com/cfazuero1/Network-Activity-Spike/blob/main/813c9ef3-52b5-42be-b575-caf366f7bdae.png)
+![SOCRadar Evidence 3](https://github.com/cfazuero1/Network-Activity-Spike/blob/main/a1acacf6-d6e6-4522-9b47-68efa2b3a3d7.png)
+![SOCRadar Evidence 4](https://github.com/cfazuero1/Network-Activity-Spike/blob/main/aa71c17b-f5c7-4bb0-979a-179fb2913e4c.png)
+![SOCRadar Evidence 5](https://github.com/cfazuero1/Network-Activity-Spike/blob/main/e0ff24fd-ab92-4f9c-87e4-e7a20bea1a9a.png)
+![SOCRadar Evidence 6](https://github.com/cfazuero1/Network-Activity-Spike/blob/main/f38a89f0-5ae0-4f75-bdad-cc0c55a1e21d.png)
+
+---
+
 ## Assessment
 The combination of known malicious IP reputation, abnormal port usage, and uniform connection patterns indicates a **likely external compromise or reconnaissance**.  
 Given that multiple CTI sources independently classify these IPs as abusive, the activity is assessed as **confirmed hostile** and meets escalation criteria for incident handling.
